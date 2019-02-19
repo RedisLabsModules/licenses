@@ -9,7 +9,7 @@ This Agreement sets forth the terms on which the Licensor makes available the So
 
 The terms below have the meanings set forth below for purposes of this Agreement:
 
-*Agreement:* this Redis Source Available License Agreement.
+Agreement: this Redis Source Available License Agreement.
 
 Database Product: any of the following products or services: (a) database; (b) caching engine; (c) stream processing engine; (d) search engine; (e) indexing engine; (f) machine learning or deep learning or artificial intelligence serving engine; (g) a product or service exposing the Redis API; (h) a product or service exposing the Redis Modules API; or (i) a product or service exposing the Software API.  
 
