@@ -11,7 +11,9 @@ The terms below have the meanings set forth below for purposes of this Agreement
 
 Agreement: this Redis Source Available License Agreement.
 
-Database Product: any of the following products or services: (a) database; (b) caching engine; (c) stream processing engine; (d) search engine; (e) indexing engine; (f) machine learning or deep learning or artificial intelligence serving engine; (g) a product or service exposing the Redis API; (h) a product or service exposing the Redis Modules API; or (i) a product or service exposing the Software API.  
+Database Product: any of the following products or services: (a) database; (b) caching engine; (c) stream processing engine; (d) search engine; (e) indexing engine; (f) machine learning or deep learning or artificial intelligence serving engine; 
+(g) a product or service exposing the Redis API; (h) a product or service exposing the Redis Modules API; or 
+(i) a product or service exposing the Software API.  
 
 License: the Redis Source Available License described in Section 1. 
 
@@ -30,10 +32,10 @@ Your Application: an application developed by or for You, where such application
 1.	LICENSE GRANT AND CONDITIONS  
 
 1.1 Subject to the terms and conditions of this Section 1, Licensor hereby grants to You a non-exclusive, royalty-free, worldwide, non-transferable license during the term of this Agreement to: 
-distribute or make available the Software or your Modifications under the terms of this Agreement, only as part of Your Application, so long as you include the following notice on any copy you distribute: "This software is subject to the terms of the Redis Source Available License Agreement".
-use the Software, or your Modifications, only as part of Your Application, but not in connection with any Database Product that is distributed or otherwise made available by any third party.
-modify the Software, provided that Modifications remain subject to the terms of this License.  
-reproduce the Software as necessary for the above. 
+	(a) distribute or make available the Software or your Modifications under the terms of this Agreement, only as part of Your Application, so long as you include the following notice on any copy you distribute: "This software is subject to the terms of the Redis Source Available License Agreement".
+	(b) use the Software, or your Modifications, only as part of Your Application, but not in connection with any Database Product that is distributed or otherwise made available by any third party.
+	(c) modify the Software, provided that Modifications remain subject to the terms of this License.  
+	(d) reproduce the Software as necessary for the above. 
 
 1.2.	Sublicensing. You may sublicense the right to use the Software fully embedded in Your Application as distributed by you in accordance with Section 1.1(a), pursuant to a written license that disclaims all warranties and liabilities on behalf of Licensor.
 
