@@ -3,9 +3,6 @@ REDIS SOURCE AVAILABLE LICENSE AGREEMENT
 Version 1.0, February 21, 2019
  
 This Agreement sets forth the terms on which the Licensor makes available the Software. BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE SOFTWARE, YOU AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO SUCH TERMS AND CONDITIONS, YOU MUST NOT USE THE SOFTWARE. If you are receiving the Software on behalf of a legal entity, you represent and warrant that you have the actual authority to agree to the terms and conditions of this agreement on behalf of such entity.  
-
-0.	DEFINITION
-
 The terms below have the meanings set forth below for purposes of this Agreement:
 Agreement: this Redis Source Available License Agreement.
 Database Product: any of the following products or services: (a) database; (b) caching engine; (c) stream processing engine; (d) search engine; (e) indexing engine; (f) machine learning or deep learning or artificial intelligence serving engine; (g) a product or service exposing the Redis API; (h) a product or service exposing the Redis Modules API; or (i) a product or service exposing the Software API.  
